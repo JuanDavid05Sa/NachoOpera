@@ -1,0 +1,6 @@
+C:\Users\Juan Fernando\Documents\C# 2023\nacho division\nacho division\bin\Debug\nacho division.dll
+C:\Users\Juan Fernando\Documents\C# 2023\nacho division\nacho division\bin\Debug\nacho division.pdb
+C:\Users\Juan Fernando\Documents\C# 2023\nacho division\nacho division\obj\Debug\nacho division.csproj.AssemblyReference.cache
+C:\Users\Juan Fernando\Documents\C# 2023\nacho division\nacho division\obj\Debug\nacho division.csproj.CoreCompileInputs.cache
+C:\Users\Juan Fernando\Documents\C# 2023\nacho division\nacho division\obj\Debug\nacho division.dll
+C:\Users\Juan Fernando\Documents\C# 2023\nacho division\nacho division\obj\Debug\nacho division.pdb
