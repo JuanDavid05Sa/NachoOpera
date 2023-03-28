@@ -1,0 +1,17 @@
+C:\Users\Polvito\source\repos\Integracion\Integrador\obj\Debug\Integrador.csproj.AssemblyReference.cache
+C:\Users\Polvito\source\repos\Integracion\Integrador\obj\Debug\Integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polvito\source\repos\Integracion\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\Integrador.exe
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\Integrador.pdb
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\biblioteca restar.dll
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\biblioteca sumar.dll
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\biblioteca restar.pdb
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\biblioteca sumar.pdb
+C:\Users\Polvito\source\repos\Integracion\Integrador\obj\Debug\Integrador.csproj.CopyComplete
+C:\Users\Polvito\source\repos\Integracion\Integrador\obj\Debug\Integrador.exe
+C:\Users\Polvito\source\repos\Integracion\Integrador\obj\Debug\Integrador.pdb
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\nacho division.dll
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\Nacho_Multiplicacion.dll
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\nacho division.pdb
+C:\Users\Polvito\source\repos\Integracion\Integrador\bin\Debug\Nacho_Multiplicacion.pdb
