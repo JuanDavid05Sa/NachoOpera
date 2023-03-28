@@ -1,0 +1,6 @@
+C:\Users\Polvito\source\repos\biblioteca restar\biblioteca restar\bin\Debug\biblioteca restar.dll
+C:\Users\Polvito\source\repos\biblioteca restar\biblioteca restar\bin\Debug\biblioteca restar.pdb
+C:\Users\Polvito\source\repos\biblioteca restar\biblioteca restar\obj\Debug\biblioteca restar.csproj.AssemblyReference.cache
+C:\Users\Polvito\source\repos\biblioteca restar\biblioteca restar\obj\Debug\biblioteca restar.csproj.CoreCompileInputs.cache
+C:\Users\Polvito\source\repos\biblioteca restar\biblioteca restar\obj\Debug\biblioteca restar.dll
+C:\Users\Polvito\source\repos\biblioteca restar\biblioteca restar\obj\Debug\biblioteca restar.pdb
