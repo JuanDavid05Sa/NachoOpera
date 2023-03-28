@@ -1,0 +1,12 @@
+C:\Users\Polvito\source\repos\biblioteca sumar\biblioteca sumar\bin\Debug\biblioteca sumar.dll
+C:\Users\Polvito\source\repos\biblioteca sumar\biblioteca sumar\bin\Debug\biblioteca sumar.pdb
+C:\Users\Polvito\source\repos\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.csproj.AssemblyReference.cache
+C:\Users\Polvito\source\repos\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.csproj.CoreCompileInputs.cache
+C:\Users\Polvito\source\repos\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.dll
+C:\Users\Polvito\source\repos\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.pdb
+C:\Users\57302\Downloads\biblioteca sumar\biblioteca sumar\biblioteca sumar\bin\Debug\biblioteca sumar.dll
+C:\Users\57302\Downloads\biblioteca sumar\biblioteca sumar\biblioteca sumar\bin\Debug\biblioteca sumar.pdb
+C:\Users\57302\Downloads\biblioteca sumar\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.csproj.AssemblyReference.cache
+C:\Users\57302\Downloads\biblioteca sumar\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.csproj.CoreCompileInputs.cache
+C:\Users\57302\Downloads\biblioteca sumar\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.dll
+C:\Users\57302\Downloads\biblioteca sumar\biblioteca sumar\biblioteca sumar\obj\Debug\biblioteca sumar.pdb
